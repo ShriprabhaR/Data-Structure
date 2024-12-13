@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\StackOnSinglyLinkedList\StackOnSinglyLinkedList\bin\Debug\netcoreapp3.1\StackOnSinglyLinkedList.exe
+C:\Users\HP\source\repos\StackOnSinglyLinkedList\StackOnSinglyLinkedList\bin\Debug\netcoreapp3.1\StackOnSinglyLinkedList.deps.json
+C:\Users\HP\source\repos\StackOnSinglyLinkedList\StackOnSinglyLinkedList\bin\Debug\netcoreapp3.1\StackOnSinglyLinkedList.runtimeconfig.json
+C:\Users\HP\source\repos\StackOnSinglyLinkedList\StackOnSinglyLinkedList\bin\Debug\netcoreapp3.1\StackOnSinglyLinkedList.runtimeconfig.dev.json
+C:\Users\HP\source\repos\StackOnSinglyLinkedList\StackOnSinglyLinkedList\bin\Debug\netcoreapp3.1\StackOnSinglyLinkedList.dll
+C:\Users\HP\source\repos\StackOnSinglyLinkedList\StackOnSinglyLinkedList\bin\Debug\netcoreapp3.1\StackOnSinglyLinkedList.pdb
+C:\Users\HP\source\repos\StackOnSinglyLinkedList\StackOnSinglyLinkedList\obj\Debug\netcoreapp3.1\StackOnSinglyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\StackOnSinglyLinkedList\StackOnSinglyLinkedList\obj\Debug\netcoreapp3.1\StackOnSinglyLinkedList.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\StackOnSinglyLinkedList\StackOnSinglyLinkedList\obj\Debug\netcoreapp3.1\StackOnSinglyLinkedList.AssemblyInfo.cs
+C:\Users\HP\source\repos\StackOnSinglyLinkedList\StackOnSinglyLinkedList\obj\Debug\netcoreapp3.1\StackOnSinglyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\StackOnSinglyLinkedList\StackOnSinglyLinkedList\obj\Debug\netcoreapp3.1\StackOnSinglyLinkedList.sourcelink.json
+C:\Users\HP\source\repos\StackOnSinglyLinkedList\StackOnSinglyLinkedList\obj\Debug\netcoreapp3.1\StackOnSinglyLinkedList.dll
+C:\Users\HP\source\repos\StackOnSinglyLinkedList\StackOnSinglyLinkedList\obj\Debug\netcoreapp3.1\StackOnSinglyLinkedList.pdb
+C:\Users\HP\source\repos\StackOnSinglyLinkedList\StackOnSinglyLinkedList\obj\Debug\netcoreapp3.1\StackOnSinglyLinkedList.genruntimeconfig.cache
