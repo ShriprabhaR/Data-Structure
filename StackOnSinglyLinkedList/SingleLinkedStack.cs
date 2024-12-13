@@ -62,5 +62,17 @@ namespace StackOnSinglyLinkedList
                 return poppedData;
             }
         }
+
+        public void peek()
+        {
+            if (top == null)
+            {
+                Console.WriteLine("No data here");
+                return;
+            }
+            Console.WriteLine("-------");
+            Console.WriteLine("{0} is on the top of Stack", top.data);
+
+        }
     }
 }
